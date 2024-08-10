@@ -2,6 +2,6 @@
 snowflake-snowpark-python
 streamlit
 requests
-import pandas as pd
+pandas
 
   
